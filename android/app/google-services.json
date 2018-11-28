@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "72040981078",
+    "firebase_url": "https://best-indian-restaurant-d7048.firebaseio.com",
+    "project_id": "best-indian-restaurant-d7048",
+    "storage_bucket": "best-indian-restaurant-d7048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72040981078:android:c9ce95d4940c27b0",
+        "android_client_info": {
+          "package_name": "com.deligence.bestindianrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72040981078-rehgb2pjv863981vpvg3563jv9b6bimm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deligence.bestindianrestaurant",
+            "certificate_hash": "ccaa11e7a7ba1e448b9054ee745f9696992c18ab"
+          }
+        },
+        {
+          "client_id": "72040981078-rkjvfu6q6r1v5eiiprtfec77bg6mkg5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deligence.bestindianrestaurant",
+            "certificate_hash": "e8f03ab440be9daf0109deb86bd5d798f24bfc2d"
+          }
+        },
+        {
+          "client_id": "72040981078-j88bl9if25pen3qhk8iidrd0iutqp5uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWcAdxyt1phEhIi87XZD6_6uGfpSZ4VY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72040981078-j88bl9if25pen3qhk8iidrd0iutqp5uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

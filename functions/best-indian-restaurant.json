@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "best-indian-restaurant-691ad",
+  "private_key_id": "9beec6f19ca33065766f2aa65aea578c824a0e12",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDo1E3k+D7DndUI\n3o9uSCaAnUMhEAYk1WDZXxdKcxx7jIPP/RuDoRRgqgavQiHl+1U6diDryFOayHpO\nx5dkLq1Mm5alDO7XDwuwUYAq+Vz90z4kAKQHn0/RAr9X2b68j/1YwjkGgpYnoNpz\nXqjOEKHPjfnlFpYrGQ+rnF6VJCq1Se2kFvdJWScorVdOhx0m+ND9fJcPAkte1cGk\n5gOp2y//6vIE0JRWCxmYditbNkyTodVgh3TH0A8qHWF2iWqVG1KZjjysqFe6FMMG\nObiIezx6TnsUZeRWJUa8yTHpgCMZQuy1Zm+pU15/q0E0vG3mretjO6nbOQSU33PS\nNTUYG/djAgMBAAECggEAIl3P/5ea4BHoc44yWqNgt4Q+997fIUmzqXItRGp4Tk4/\n2I/yIzw//0KpiO34hfNSsbXlBxiDKqojz4QLdxiisNeYZVVi3bCVV5m4Et/K15Z6\nKiNEEvHzfJTsvGFiE4Anc5X7h9f3pPLLu9LBlOUElVfOBoAOe18QHpMOrPHxMd/n\nFmzWDJpfmZOi50PNaZHon8Ht9JwtGb2KyhFugnwQZo+ZxrHLpkcp0yDjF2TbiN0/\nLoBAAK8EfjHRSRHOKirxvDenda0gxNGCEUxhH2N20ok3rtlxtu79CuJbzsI59ddL\nNLPv3CtTkSljUcXIEA+Nds1MlddroyL5oRj+2zkSLQKBgQD1bD6W7s+PlGo2M6Qt\nPBDftHYN63zrNxWqynY5p60YsmUZrTeY5iEfy8bl5iTzW4kW29jKeI1NQ2ojh4Qa\nNqd9hZAPMb55vxaNQo68F3CoaBuFu2eksNAQtO8WXLxg+MMjvnGnMs0zUsWsZzn9\nBhlSuGm6WzTZb6Xv8W83U4mNPwKBgQDy3R2ATCE9LeSdDVF1qDVHUMPNC2HeVoxZ\n7GnENxEF9y8Pf6mKIR9I7r0AFmuh7FleQxEE0YQsAM/dAxdh99/68aHaZpY6myVo\nAu5/fAWICw1+I3dcEksQDuF8ax1ffl+oCyGZJ9rSJo9Sese9zJjX2qI16sxvkRNw\nh+dgfHj43QKBgBo8bhx4fxvcQ9ZzgtOLHkqr4gru57XFd72AU08qi6ieOYybJdxk\njZn2kNa22bBiUq9s5SoP5RsjX89Yh1i+Cv2yL4pQSQp+0Qxc1yFoaBS4vGh5dkT2\n2edPUFfVphW/wiyqCUBUf/dCm/soNdzEsCRVrofLhETSWKzj5H3HombFAoGBALnr\n0ljUbyHBz2D3wCO9WMQ2rR58lzi5swpoNPP0YADcIVfRGH5ZKvUPZvr5Lv6vzB6g\nYxf4OSHioT6FzlG+i+Y1Mv3aSSmmefVtQR2xWR6zr2mgRxDiJDqv2akA62SefyZL\nFzaDTz5QLKosulqvlVax1jpGfKjwPByKvfOcdpO1AoGBANmHeXwvjxLv7QdxTa3E\n28Kb4PxIlsNyidR5IU6WTzgAsBXUmbycWRT+9MAZKCA3xxZ6o9LWq6seR3b4wf6K\nb2pWD1CmhKmuuInj7FuwxTszOujKUzVMYOYaFETW9HVmtmy+Ukhoj+Iz314g0kon\nRnDp8F8H9NbBDl613kuXW+E7\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-let2p@best-indian-restaurant-691ad.iam.gserviceaccount.com",
+  "client_id": "117298958940679899530",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-let2p%40best-indian-restaurant-691ad.iam.gserviceaccount.com"
+}
